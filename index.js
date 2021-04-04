@@ -1,4 +1,4 @@
-//Listing all the dependencies
+//Importing all the dependencies
 const express = require("express");
 const ejs = require("ejs");
 const fetch = require('node-fetch');
