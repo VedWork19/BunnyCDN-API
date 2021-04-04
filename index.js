@@ -1,7 +1,8 @@
 //Importing all the dependencies
+//Use Morgan it is http request logger************************************
 const express = require("express");
 const ejs = require("ejs");
-const fetch = require('node-fetch');
+const fetch = require('node-fetch'); //fetch is depriciated use npm i unirest
 const bodyParser = require('body-parser');
 const { json } = require("express");
 const swaggerJsDoc = require('swagger-jsdoc');
