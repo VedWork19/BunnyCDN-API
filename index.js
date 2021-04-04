@@ -1,10 +1,4 @@
 //Listing all the dependencies
-// import express from "express"
-// import fetch from "node-fetch"
-// import bodyParser from "body-parser"
-// import swaggerJsDoc from "swagger-jsdoc"
-// import swaggerUi from "swagger-ui-express"
-
 const express = require("express");
 const ejs = require("ejs");
 const fetch = require('node-fetch');
